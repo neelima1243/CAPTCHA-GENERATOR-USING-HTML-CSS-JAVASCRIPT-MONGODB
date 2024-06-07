@@ -57,7 +57,7 @@ The structure of the CAPTCHA generator is defined in `captcha.html`:
 
 
 ####CSS
-The styling of the CAPTCHA generator is defined in 'styles.css':
+The styling of the CAPTCHA generator is defined in 'style.css':
 * {
     padding: 0;
     margin: 0;
